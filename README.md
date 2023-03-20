@@ -1,5 +1,5 @@
 # Hearty-Journal.github.io
-### 溫度日記當機網頁設計。
+### 溫度日記當機網頁設計，效能提升版。
 ❤ **Notion筆記：**[\更完整介紹，歡迎點擊此連結^-^~/](https://www.notion.so/958c805db1244dda821caf3025c9b7ee?pvs=4)
    
 * ### index.html(網頁)
@@ -38,7 +38,7 @@
 
 ## 程式碼設計：
 ### HTML：
-- 顯示網頁需要的文字
+- <meta name="description" content="This is journal after fix.">
 - 定義好各文字的屬性
 - 引入CSS和Js
 ### CSS：
